@@ -17,3 +17,14 @@
 
 ### Which of the following best describes a "class" in object oriented PHP?
 - [x] A blueprint that contains all the functions and variables that define an object.
+
+## Quiz 1
+
+### A programming paradigm refers to?
+- [x] A style, or “way”, of approaching a problem to come up with a solution. 
+
+### What is "spaghetti code”?
+- [x] Code that weaves all over your application and is complicated to follow.
+
+### Which is NOT a benefit of Object-Oriented Programming?
+- [x] All languages use Object-Oriented Programming
